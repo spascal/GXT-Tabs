@@ -1,0 +1,2 @@
+serviceClass: com.hello.gxt.client.GreetingService
+path: 5D04497B2BCAFB2BDCF4F3136932370B.gwt.rpc
